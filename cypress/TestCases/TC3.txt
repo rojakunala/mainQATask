@@ -1,0 +1,10 @@
+TEST CASE ID : 3
+Steps to reproduce:
+1. Go to your playground page
+2. user clicks all icons in the outer perimeter of Grid 
+3. user should able to see the dialog box 
+
+Actual Result :  user should able to see the dialog box 
+Expected Result : user should able to see the dialog box 
+
+Test cases status (Pass /Fail) : Pass

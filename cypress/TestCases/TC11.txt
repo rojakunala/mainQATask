@@ -1,0 +1,13 @@
+TEST CASE ID : 11
+Steps to reproduce:
+1. Go to your playground page
+2. user clicks all icons in the outer perimeter of Grid
+3. user should able to see the dialog box  
+4. user should see 'cancel' and 'Ok'buttons in the dialog box  
+5. user should click on 'cancel' button 
+6. user should see dialog box got cancel
+
+Actual Result :  user should see dialog box got cancel
+Expected Result : user should see dialog box got cancel
+
+Test cases status (Pass /Fail) : Pass

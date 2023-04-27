@@ -1,0 +1,13 @@
+TEST CASE ID : 11
+Steps to reproduce:
+1. Go to your playground page
+2. user clicks all icons in the outer perimeter of Grid
+3. user should able to see the dialog box  
+4. user enter any range between '3-9' into dialog box  Eg:2, 10
+5. user should click on 'ok' button 
+6. user should have appropriate number of columns and rows based on input.
+
+Actual Result :  user should have appropriate number of columns and rows based on input.
+Expected Result : user should have appropriate number of columns and rows based on input.
+
+Test cases status (Pass /Fail) : Pass

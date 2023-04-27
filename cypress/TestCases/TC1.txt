@@ -1,0 +1,10 @@
+TEST CASE ID : 1
+Steps to reproduce:
+1. Go to your playground page
+2. clicks on all icons in the grid
+3. user should not able to see the dialog box 
+
+Actual Result :  user should not able to see the dialog box 
+Expected Result : user should not able to see the dialog box 
+
+Test cases status (Pass /Fail) : Pass

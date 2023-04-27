@@ -1,0 +1,7 @@
+install cypress@7.6.0 
+To run the tests on this framework via the terminal, type and press enter (npm run test) is used to launch cypress where a 
+particular feature file can be executed by clicking on that feature file or clicking on Run integration specs to execute all feature files in the tests folder
+Looking at the folder structure on this framework, we have a reports folder in the frameework please have look test report (index.html)
+Looking at the folder structure on this framework, we have a each .feature (dialog_box.feature file, a dialog_box folder which have in it dialog_boxPage.js and dialog_boxStep.js)
+Looking at the folder structure on this framework, we have a TestCases Folder with maunal TestCases added in txt 
+Looking at the folder structure on this framework, we have a defects Folder with defects id's and Added the screenshoots

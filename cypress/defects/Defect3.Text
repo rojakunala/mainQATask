@@ -1,0 +1,11 @@
+DEFECT ID : 03
+Steps to reproduce:
+1. Go to your playground page
+2. clicks on all icons in the outer perimeter of Grid
+3. user should not able to see all icons in the outer perimeter of Grid in reb colour
+
+
+Actual Result :  user should not able to see all icons in the outer perimeter of Grid in reb colour
+Expected Result : user should able to see all icons in the outer perimeter of Grid in reb colour
+
+Defect Screenshot path : Defect4-Screenshot.png.

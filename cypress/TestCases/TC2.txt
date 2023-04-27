@@ -1,0 +1,10 @@
+TEST CASE ID : 2
+Steps to reproduce:
+1. Go to your playground page
+2. clicks on all icons in the grid
+3. user should see red coloured rbi icons inside each Grid 
+
+Actual Result :  user should see red coloured rbi icons inside each Grid
+Expected Result : user should see red coloured rbi icons inside each Grid
+
+Test cases status (Pass /Fail) : Pass

@@ -1,0 +1,14 @@
+{
+    "baseUrl": "https://rojakunala.github.io/yourplayground/",
+    "video": false,
+    "defaultCommandTimeout": 10000,
+    "pageLoadTimeout": 20000,
+    "testFiles": "**/*.feature",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "reporter": "cypress-mochawesome-reporter",
+    "retries": {
+        "runMode": 2,
+        "openMode": 0
+      }
+}

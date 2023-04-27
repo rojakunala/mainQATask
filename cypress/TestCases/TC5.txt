@@ -1,0 +1,11 @@
+TEST CASE ID : 5
+Steps to reproduce:
+1. Go to your playground page
+3. then clicks all icons in the outer perimeter of Grid and any one inner part of grid cell
+4. user is able to see the dialog box 
+
+Actual Result :  user is able to see the dialog box 
+Expected Result : user should not able to see the dialog box x
+
+Test cases status (Pass /Fail) : Fail
+Defect Id : Defect2

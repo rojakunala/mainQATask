@@ -1,0 +1,12 @@
+TEST CASE ID : 9
+Steps to reproduce:
+1. Go to your playground page
+2. user clicks all icons in the outer perimeter of Grid
+3. user should able to see the dialog box 
+4. user enter any out of range between '3-9' into dialog box  Eg:2, 10
+5. user should see 'Not a good size!' text
+
+Actual Result :  user should see 'Not a good size!' text
+Expected Result : user should see 'Not a good size!' text
+
+Test cases status (Pass /Fail) : Pass

@@ -1,0 +1,12 @@
+TEST CASE ID : 6
+Steps to reproduce:
+1. Go to your playground page
+2. user clicks all icons in the outer perimeter of Grid
+3. user should able to see the dialog box 
+4. user enter some 'negative value' into dialog box Eg:-2,-4
+5. user should see 'Not a good size!' text
+
+Actual Result :  user should see 'Not a good size!' text
+Expected Result : user should see 'Not a good size!' text
+
+Test cases status (Pass /Fail) : Pass
